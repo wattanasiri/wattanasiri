@@ -8,7 +8,7 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![alt text](https://img.icons8.com/fluent/50/000000/python.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/c-programming.png)&nbsp;
-![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png>)&nbsp;
+![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)&nbsp;
 
 <br/>
 
@@ -22,7 +22,7 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
 ## 📙 Database .
 ![alt text](https://img.icons8.com/color/48/000000/mongodb.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/mysql-logo.png)&nbsp;
-![alt text](https://img.icons8.com/color/48/000000/firebase.png")&nbsp;
+![alt text](https://img.icons8.com/color/48/000000/firebase.png)&nbsp;
 
 <br/>
 
@@ -40,7 +40,7 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
     <a href = "https://www.facebook.com/bright.smart.zaza/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
     <a href = "https://www.instagram.com/bwtnsri_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.linkedin.com/in/wattanasiri-uparakkitanon-903b88225/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href = "mailto: wattnasiri.449@mail.kmutt.ac.th"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+    <a href = "mailto: wattnasiri.449@mail.kmutt.ac.th"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="wattnasiri.449@mail.kmutt.ac.th" title="wattnasiri.449@mail.kmutt.ac.th"/></a>
     <a><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/ alt="bwtnsri_#4906" title="bwtnsri_#4906"></a>
 </p>
 
