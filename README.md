@@ -46,7 +46,8 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
 
 <br/>
 
-<a href="https://github.com/wattanasiri"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wattanasiri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattanasiri&show_icons=true&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wattanasiri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
