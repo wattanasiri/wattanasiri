@@ -6,23 +6,27 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![alt text](https://img.icons8.com/fluent/50/000000/python.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/c-programming.png)&nbsp;
+<br/>
 
 ## ❤️ Frameworks & Libraries.
 ![alt text](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/flutter.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/bootstrap.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/react-native.png)&nbsp;
+<br/>
 
 ## 📙 Database .
 ![alt text](https://img.icons8.com/color/48/000000/mongodb.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/mysql-logo.png)&nbsp;
+<br/>
 
 ## 💡 Others.
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/git.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/figma--v1.png)&nbsp;
-  
+<br/>
+
 ## 🙎‍♂️ How to contact me!
 <p align="left">
     <a alt = "Facebook" href = "https://www.facebook.com/bright.smart.zaza/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
@@ -30,6 +34,7 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
     <a alt = "Linkedin" href = "https://www.linkedin.com/in/wattanasiri-uparakkitanon-903b88225/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
 
+<br/>
 <a href="https://github.com/wattanasiri"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wattanasiri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
