@@ -13,7 +13,7 @@ Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm 
 
 ## ❤️ Frameworks & Libraries.
 ![alt text](https://img.icons8.com/color/48/000000/flutter.png)&nbsp;
-![alt text](https://img.icons8.com/color/48/000000/react.png)&nbsp;
+![alt text](https://img.icons8.com/color/48/000000/react-native.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/bootstrap.png)&nbsp;
 
