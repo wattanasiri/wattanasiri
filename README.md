@@ -1,5 +1,5 @@
 # Delighted to make your acquaintance. 👋
-Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm currently in my 3rd year at King Mongkut's University of Technology Thonburi. Faculty of Science, Department of Mathematics, Applied Computer Science. I'm always interested in learning new things. Below are some of my information and skills.
+Hi! I'm Wattanasiri Uparakkitanon, my nickname is Bright. I'm 21 years old. I'm currently in my 4rd year at King Mongkut's University of Technology Thonburi. Faculty of Science, Department of Mathematics, Applied Computer Science. I'm always interested in learning new things. Below are some of my information and skills.
 
 <br/>
 
